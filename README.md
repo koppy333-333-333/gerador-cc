@@ -10,7 +10,7 @@
  - `apt install git`
  - `git clone https://github.com/koppy333-333-333/gerador-cc`
  - `cd gerador-cc`
- - `python gerarcc.py`  
+ - `python cardercc.py`  
 
 > **ANDROID**
 > - - [x] **KALI NETHUNTER**
