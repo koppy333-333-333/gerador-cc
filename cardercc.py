@@ -23,7 +23,7 @@ while 100:
 ░                            ░                      ░        ░        
 
  Coded  By: Koppy404
- Instagram: koppy999_               
+ Instagram: koppyyy_               
 ''')
     print(fechar)
     print(vermelho)
